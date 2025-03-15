@@ -54,7 +54,7 @@ KrezmeinPhisher GUI currently supports **awareness simulations** for the followi
    Download a release
 2. **Run the GUI**
   ```bash
-  Just double-click the KrezmeinPhisher.exe to start!
+   Double-click the KrezmeinPhisher.exe to start!
    No complicated setup required.
 ```
 ## **⚠ Disclaimer**
